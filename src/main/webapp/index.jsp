@@ -6,8 +6,8 @@
   <h1>Academy E-Bookstore</h1>
   <h3>Choose Author(s):</h3>
   <form method="get">
-	  <input type="checkbox" name="author" value="Tolstoy">ashok<br>
-	  <input type="checkbox" name="author" value="Shakespear">naveen<br>
+	  <input type="checkbox" name="author" value="Tolstoy">ashoka<br>
+	  <input type="checkbox" name="author" value="Shakespear">naveena<br>
 	  <input type="checkbox" name="author" value="Agatha">Agatha Christie<br>
 	  <input type="checkbox" name="author" value="Rowling">J K Rowling<br><br>
 	  <input type="submit" value="List the Books and Price"><br>
